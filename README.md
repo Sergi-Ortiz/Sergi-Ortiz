@@ -4,7 +4,7 @@ I am a Bachelors student majoring in both Physics 🔭 and Chemistry 🧪 at Uni
 - 👨‍💻 I am working on Machine Learning Potentials and simulation of proteic systems.  
 - 📚 I am interested in theoretical and computational Chemistry and also Deep Learning. 
 - 📈 I look forward to collaborate on tipics involving MLPs and other Computational Chemistry related fields!
-- 📫 Definetely do reach out to me if our scientific interests align at guiru333@gmail.com
+- 📫 Definetely do reach out to me if our scientific interests align at sergiortizropero@gmail.com
 
 ### 🛠️ Code Languages and Computational Tools
 <div>
