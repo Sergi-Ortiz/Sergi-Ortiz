@@ -1,10 +1,11 @@
 ## Bewelcomed to my GitHub page! 🤠
 ### About me
-I am a Bachelors student majoring in both Physics 🔭 and Chemistry 🧪 at Universitat Autònoma de Barcelona.
-- 👨‍💻 I am working on Machine Learning Potentials and simulation of proteic systems.  
+I am a Physics 🔭 and Chemistry 🧪 BSc graduate from Universitat Autònoma de Barcelona.
+- 👨‍💻 I am working on using Machine Learning Interatomic Potentials in the simulation of proteic systems.  
 - 📚 I am interested in theoretical and computational Chemistry and also Deep Learning. 
-- 📈 I look forward to collaborate on tipics involving MLPs and other Computational Chemistry related fields!
+- 📈 I look forward to collaborate on tipics involving MLIPs and other Computational Chemistry related fields!
 - 📫 Definetely do reach out to me if our scientific interests align at sergiortizropero@gmail.com
+- More information about me and my projects at https://sergi-ortiz.github.io 
 
 ### 🛠️ Code Languages and Computational Tools
 <div>
