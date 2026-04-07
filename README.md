@@ -4,7 +4,7 @@ I am a Physics 🔭 and Chemistry 🧪 BSc graduate from Universitat Autònoma d
 - 👨‍💻 I am working on using Machine Learning Interatomic Potentials in the simulation of proteic systems.  
 - 📚 I am interested in theoretical and computational Chemistry and also Deep Learning. 
 - 📈 I look forward to collaborate on tipics involving MLIPs and other Computational Chemistry related fields!
-- 📫 Definetely do reach out to me if our scientific interests align at sergiortizropero@gmail.com
+- 📫 Definetely do reach out to me if our scientific interests align at sergiortizropero[at]gmail[dot]com
 - More information about me and my projects at https://sergi-ortiz.github.io 
 
 ### 🛠️ Code Languages and Computational Tools
